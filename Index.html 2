@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ugochi Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Hello, I'm <span>Ugochi</span> 👋</h1>
+    <p>Aspiring IT Specialist & Data Technician</p>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>
+      I’m learning SQL, data analysis, Git, and web development.  
+      My goal is to start an IT/Data Ausbildung in Germany by 2026.
+    </p>
+  </section>
+
+  <section class="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>SQL</li>
+      <li>Excel</li>
+      <li>Data Cleaning</li>
+      <li>Git & GitHub</li>
+      <li>HTML & CSS</li>
+    </ul>
+  </section>
+
+  <section class="projects">
+    <h2>Projects</h2>
+    <p>More projects coming soon…</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Ugochi</p>
+  </footer>
+</body>
+</html>
